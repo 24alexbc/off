@@ -1,0 +1,2 @@
+# off
+shutdown computer
